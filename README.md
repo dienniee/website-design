@@ -9,5 +9,9 @@ Tools:
 - Prototyping
 - Wireframing
 
+Screens: 
+![Lernfortschritt](Screens/Lernfortschritt.png)
+
+
 Link zum Prototyp: 
 https://www.figma.com/design/zJPC7fT6dP2A2RiegVZtb0/Untitled?node-id=0-1&t=VXIEOrlgYfZwFnHB-1
