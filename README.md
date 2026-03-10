@@ -10,8 +10,8 @@ Tools:
 - Wireframing
 
 Screens: 
-![Lernfortschritt](screens/Lernfortschritt.png)
 ![Admin Dashboard](screens/AdminDashboard.png)
+![Lernfortschritt](screens/Lernfortschritt.png)
 
 
 Link zum Prototyp: 
