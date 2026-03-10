@@ -10,7 +10,7 @@ Tools:
 - Wireframing
 
 Screens: 
-![Lernfortschritt](Screens/Lernfortschritt.png)
+![Lernfortschritt](screens/Lernfortschritt.png)
 
 
 Link zum Prototyp: 
