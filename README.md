@@ -11,6 +11,7 @@ Tools:
 
 Screens: 
 ![Lernfortschritt](screens/Lernfortschritt.png)
+![Admin Dashboard](screens/AdminDashboard.png)
 
 
 Link zum Prototyp: 
